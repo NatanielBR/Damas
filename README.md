@@ -9,7 +9,7 @@ Versão beta 1.0:
 - Não existe o movimento de "comer" uma peca.
 - Não existe a "dama".
 - Não existe a inteligencia artificial, ou seja é voce contra voce.
-Versão beta 2.0:
+  Versão beta 2.0:
 - A seleção "detecta" se no espaço existe uma peca ou não, evitando assim a marcação 
 da minha peça, das peças do inimigo e do espaço cinza.
 - Não existe o ato de "comer" a peça inimiga.
