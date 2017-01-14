@@ -1,4 +1,5 @@
-# Damas
+# Damas (ABANDONADO)
+# Decidi abandonar esse projeto pra iniciar outro, não sei se voltarei a continuar esse projeto.
 Jogo de damas criado em java, ainda esta em versão beta com alguns bugs (da certo, muitos bugs).
 
 - Não existe uma tela de "boas vindas", a aplicação vai direto para o jogo, como está na versão beta, não estou muito preocupado com isso.
